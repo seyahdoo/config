@@ -1,0 +1,41 @@
+{
+  "SearchSources": [
+    {
+      "Title": "Google",
+      "ActionKeyword": "g",
+      "Icon": "google.png",
+      "Url": "https://www.google.com/search?q={q}",
+      "Enabled": true
+    },
+    {
+      "Title": "Wikipedia",
+      "ActionKeyword": "wiki",
+      "Icon": "wiki.png",
+      "Url": "https://en.wikipedia.org/wiki/{q}",
+      "Enabled": true
+    },
+    {
+      "Title": "Google Maps",
+      "ActionKeyword": "maps",
+      "Icon": "google_maps.png",
+      "Url": "https://maps.google.com/maps?q={q}",
+      "Enabled": true
+    },
+    {
+      "Title": "Google Translate",
+      "ActionKeyword": "translate",
+      "Icon": "google_translate.png",
+      "Url": "https://translate.google.com/#auto|en|{q}",
+      "Enabled": true
+    },
+    {
+      "Title": "Youtube",
+      "ActionKeyword": "y",
+      "Icon": "youtube.png",
+      "Url": "https://www.youtube.com/results?search_query={q}",
+      "Enabled": true
+    }
+  ],
+  "EnableSuggestion": false,
+  "Suggestion": "Google"
+}

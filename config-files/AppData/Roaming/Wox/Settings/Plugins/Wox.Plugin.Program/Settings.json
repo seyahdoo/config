@@ -1,0 +1,21 @@
+{
+  "ProgramSources": [
+    {
+      "Location": "U:\\Library"
+    },
+    {
+      "Location": "C:\\AHK\\Launchables"
+    },
+    {
+      "Location": "S:\\Library"
+    }
+  ],
+  "ProgramSuffixes": [
+    "bat",
+    "appref-ms",
+    "exe",
+    "lnk"
+  ],
+  "EnableStartMenuSource": true,
+  "EnableRegistrySource": true
+}

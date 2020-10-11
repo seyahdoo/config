@@ -1,0 +1,1 @@
+-maxplayers_override 999 -novid -language bananagaming -tickrate 128 -nojoy
